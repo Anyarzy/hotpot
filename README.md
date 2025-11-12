@@ -24,6 +24,10 @@
 
 - footer.md 추가
 
+## 사이드 바 만들기
+
+- sidebar.md 추가
+- 
 ## 검색기 만들기
 
 - search.md 추가
